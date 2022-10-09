@@ -99,7 +99,7 @@
  }
 
  input {
-    background-image: url(/img.webp);
+    background-image: url(img/img.webp);
     border: black;
     color: white;
      height: 2.5em;
