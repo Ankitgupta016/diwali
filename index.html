@@ -11,20 +11,29 @@
 <title>🙏  शुभ दीपावली  🙏</title>
   <link rel="stylesheet" href="style.css">
 
-</script>
+  <!-- <script language="JavaScript"> 
+    function showInput() { 
+        document.getElementById('display').innerHTML =  
+                    document.getElementById("user_input").value; 
+    } 
+  </script>  -->
 
 </head>
 <body>
     <h1> <img src="img/lantern-png_.webp" width="100px" style="margin-left:-25px ; "> HAPPY DAWALI  <img src="img/lantern-png_.webp" width="100px" style="margin-left:-25px ;"></h1>
         <h2>Let the Diwali burn all your bad times <br>and enter you in good times.</h2>
 
+            <form> 
+            
+              <input type="text" name="name" id="user_input" placeholder="Enter your name" required autofocus translate="yes"> <br>
     
-       <form action=" " method="get" onsubmit="Addrow()" >
-    
-        <input type="text" name="" id="name" placeholder="Enter your name " required><br>
-            <input class="reg" type="submit" value="Enter">
-       
-            </form>
+           
+            <input type="submit" onclick="showInput(); return false" class="reg" value="Enter" ><br> 
+        </form> 
+            <p>
+            
+  
+     
     
         <div class="diya">
         <div class="top"></div>

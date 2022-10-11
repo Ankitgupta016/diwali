@@ -120,6 +120,7 @@ padding-left: 25px;
 
  input:focus {
      outline: none;
+     
  }
 
  @media screen and (max-width :400px){
