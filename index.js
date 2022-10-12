@@ -1,7 +1,7 @@
 
  function showInput(){
     var name = document.getElementById("user_input").value;
-    document.write("  <h1>happy dipawali :" + name + "</h1>")
+    document.write("  <h1>卐  happy dipawali :" + name +  卐 +"</h1>")
     document.write("  <h3 >May your diwali bring peace and love to your life" +" </h3>")
     document.write ('<body style=" background:url(img/p.jpg) ">')
     document.body.style.backgroundRepeat = "no-repeat";
