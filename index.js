@@ -13,14 +13,14 @@
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundSize = "cover";
     document.body.style.textAlign = "center";
-    document.body.style.marginTop = "150px";
+    document.body.style.marginTop = "100px";
     document.body.style.textTransform = "uppercase";
     // document.body.style.color = "#f90303";
     document.body.style.color = "gold";
     
     document.body.style.fontFamily = " fantasy";
     document.body.style.fontWeight = "600";
-    document.body.style.fontSize = "17px";
+    document.body.style.fontSize = "14px";
   
    
 
