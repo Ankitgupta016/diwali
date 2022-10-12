@@ -3,13 +3,13 @@
  body {
      background: repeating-linear-gradient(45deg, #333333 0, #333333 5%, #1e0c02 0, #1e0c02 50%) 0 / 10px 10px;
  }
- body{
+ /* body{
     background-image: url(img/p.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: darken;
     
- }
+ } */
  body {
     background: repeating-linear-gradient(45deg, #333333 0, #333333 5%, #1e0c02 0, #1e0c02 50%) 0 / 10px 10px;
 }
