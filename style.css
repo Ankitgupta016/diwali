@@ -118,8 +118,29 @@
 font-size: 15px;
 padding-left: 25px;
  }
-   .reg:hover{
-    color: chartreuse;
+ input:hover{
+    background-image: url(img/p.jpg);
+    color: white;
+ }
+ .btn {
+    background-image: url(img/Ag.gif);
+    border: black;
+    color: white;
+     height: 2.5em;
+     width: 300px;
+     margin: 0.8em 0;
+     
+     border-radius: 50px;
+     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+     font-weight: 500;
+     padding: 5px;
+     font-weight: bold;
+font-size: 15px;
+padding-left: 25px;
+ }
+   .btn:hover{
+    color: rgb(4, 8, 1);
+    background-image: url(img/apple-touch-icon.png);
  }
 
  input:focus {
