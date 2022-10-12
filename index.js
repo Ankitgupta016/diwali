@@ -7,6 +7,9 @@
     document.write("<br>");
     document.write("  <h3>May your diwali bring peace and love to your life" +" </h3>")
     document.write ('<body style=" background:url(img/p.jpg) ">')
+    // document.write('<img src="img/ed.png\">');
+    // document.write('<img src=img/ap.jpg width=100% height=20% border=0>')
+  
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundSize = "cover";
     document.body.style.textAlign = "center";
