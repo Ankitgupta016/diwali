@@ -13,7 +13,7 @@
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundSize = "cover";
     document.body.style.textAlign = "center";
-    document.body.style.marginTop = "50px";
+    document.body.style.marginTop = "150px";
     document.body.style.textTransform = "uppercase";
     document.body.style.color = "#f90303";
     // document.body.style.marginLeft = "35rem";
