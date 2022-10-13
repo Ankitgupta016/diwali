@@ -139,8 +139,8 @@ font-size: 15px;
 padding-left: 25px;
  }
    .btn:hover{
-    color: rgb(4, 8, 1);
-    background-image: url(img/apple-touch-icon.png);
+  color: white;
+background-image: url(/img/Solid.png);
  }
 
  input:focus {

@@ -5,7 +5,7 @@
     document.write("<br>");
     // document.write("<br>");
     // document.write("<br>");
-    document.write("  <h2>May your diwali bring peace and love to your life" +" </h2>")
+    document.write("  <h2 >May your diwali bring peace and love to your life" +" </h2>")
     document.write ('<body style=" background:url(img/p.jpg) ">')
     // document.write ('<h1 style=" background:blue ">')
     // document.write('<img src="img/ed.png\">');
