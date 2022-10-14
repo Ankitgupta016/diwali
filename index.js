@@ -27,7 +27,7 @@
 
     document.body.style.width =" 100%";
 
-    document.body.style.height =" 90%";
+    document.body.style.height =" 100%";
 
     document.body.style.fontWeight = "600";
   
