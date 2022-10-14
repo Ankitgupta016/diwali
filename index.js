@@ -31,7 +31,7 @@
 
     document.body.style.fontWeight = "600";
   
-    document.body.style.position = "fixed";
+    // document.body.style.position = "fixed";
   
    //  document.writeln("your email :" +email + "<br>")
 
