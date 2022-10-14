@@ -140,7 +140,7 @@ padding-left: 25px;
  }
    .btn:hover{
   color: white;
-  background-image: url(/img/Solid.png);
+  background-image: url(img/Solid.png);
  }
 
  input:focus {
