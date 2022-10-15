@@ -15,15 +15,16 @@
 
  h1 {
      color: gold;
+     color: white;
      text-align: center;
-     font-size: 50px;
+    
      font-family: 'Poppins', sans-serif;
  }
 
  h2 {
-     color: white;
-     text-align: center;
-     
+    color: white;
+    text-align: center;
+    
 
  }
 
@@ -142,6 +143,7 @@ padding-left: 25px;
   color: white;
   background-image: url(img/Solid.png);
  }
+
 
  input:focus {
      outline: none;
