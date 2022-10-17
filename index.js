@@ -26,7 +26,7 @@ document.write('<video  style=" min-height: 100%; width:100%;" autoplay  loop  s
 
   document.body.style.textTransform = "uppercase";
 
-  // document.body.style.color = "#f90303";
+  document.body.style.background ="black";
 
   document.body.style.color = "gold";
   document.body.style.width = "100%";
