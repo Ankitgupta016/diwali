@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
  
  body {
-     background: repeating-linear-gradient(45deg, #333333 0, #333333 5%, #1e0c02 0, #1e0c02 50%) 0 / 10px 10px;
+    background: repeating-linear-gradient(45deg, #333333 0, #333333 5%, #1e0c02 0, #1e0c02 50%) 0 / 10px 10px; 
  }
  /* body{
     background-image: url(img/Ag.gif);
@@ -13,19 +13,19 @@
 
 
 
- h1 {
+ h1 { 
+    
      color: gold;
      color: white;
      text-align: center;
-   
+
      font-family: 'Poppins', sans-serif;
  }
 
  h2 {
     color: white;
     text-align: center;
-    
-
+  
  }
 
  .diya {
@@ -95,7 +95,7 @@
  }
 
  form {
-    
+  
      width: 76%;
      margin: 0 auto;
      padding-left: 14px;
