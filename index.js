@@ -1,9 +1,9 @@
 
 function showInput() {
   var name = document.getElementById("user_input").value;
+// document.write('<video  style=" min-height: 100%;" autoplay  loop  src=\"\">"+ "</video>');
 
-  // document.write('<video  style=" min-height: 100%;" autoplay  loop  src=\"Happy.mp4\">"+ "</video>');
-
+  
 
   // document.write( '<h1   style="position: absolute;width: 100%;margin: 0 auto; top: 0;margin-top: 40px; " >' + " 卐  happy dipawali  : " + name + "   卐" +"</h1>" + "<br>")
   // document.write('<h2 style="position: absolute;width: 100%;margin: 0 auto; top: 0;margin-top: 134px; " >' + "May your diwali bring peace and love to your life "  + "</h2>")
