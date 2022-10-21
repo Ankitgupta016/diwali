@@ -8,12 +8,16 @@ function showInput() {
   // document.write( '<h1   style="position: absolute;width: 100%;margin: 0 auto; top: 0;margin-top: 40px; " >' + " 卐  happy dipawali  : " + name + "   卐" +"</h1>" + "<br>")
   // document.write('<h2 style="position: absolute;width: 100%;margin: 0 auto; top: 0;margin-top: 134px; " >' + "May your diwali bring peace and love to your life "  + "</h2>")
 
+  // background:#3e0505; 
+  // background:#231919;
 
-  document.write('<h1   style="background:#3e0505;  width:fit-content;margin: 0 auto; margin-top: 25px; " >' + " 卐  happy dipawali  : " + name + "   卐" + "</h1>" + "<br>")
-  document.write('<h2 style=" background:#231919; width:fit-content; margin: 0 auto; top: 0; " >' + "May your diwali bring peace and love to your life " + "</h2>")
+
+  document.write('<h1   style=" width:fit-content;margin: 0 auto; margin-top: 25px; " >' + " 卐  happy dipawali  : " + name + "   卐" + "</h1>" + "<br>")
+
+  document.write('<h2 style=" width:fit-content; margin: 0 auto; top: 0; " >' + "May your diwali bring peace and love to your life " + "</h2>")
 
 
-  document.write('<body style=" background:url(img/ankit.jpg) ">')
+  document.write('<body style = "background:url(img/giphy.webp)  ">')
 
   document.body.style.backgroundRepeat = "no-repeat";
 
@@ -29,7 +33,9 @@ function showInput() {
   // document.body.style.background ="black";
 
   document.body.style.color = "gold";
+
   document.body.style.width = "100%";
+
   document.body.style.height= "100%";
 
   document.body.style.fontWeight = "600";
